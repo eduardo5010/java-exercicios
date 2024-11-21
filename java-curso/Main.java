@@ -1,4 +1,6 @@
 public class Main {
-    int minhaIdade = 24;
-    minhaIdade = "Eduardo";
+
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
 }
